@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on: Open-source web projects  
 - 💬 Ask me about: Python, Django, React.js, MySQL  
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/gokulc18) | [Email](mailto:gokul.msc18@gmail.com)  
-- ⚡ Fun fact: I love coffee ☕ and building web apps 🚀  
+- ⚡ Fun fact: I love coffee ☕, I love watching movies in my free time 🎬 and building web apps 🚀  
 
 ---
 
@@ -19,9 +19,10 @@
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, React.js  
 - **Backend:** Python, Django, REST API  
 - **Database:** MySQL  
-- **Tools:** Git, GitHub, VS Code, Postman 
+- **Tools:** Git, GitHub, VS Code
 
 ---
+
 ### 🚀 I Code In
 
 <p align="center">
@@ -35,6 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </p>
 
+---
 ### 🛠 IDE and Tools I Use
 
 <p align="center">
@@ -47,6 +49,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="ChatGPT" />
 </p>
 
+---
+
 ### 💼 My Projects
 
 - ☕ [**Coffee Shop Website**](https://github.com/Gokulc18/Caffe_Bite_Coffee_Shop_Website) – A static website with modern UI  
@@ -55,6 +59,7 @@
 - 🍕 [**Pizza Ordering System**](https://github.com/your-repo-link) – Django-based full-stack food app with user authentication  
 - 📚 [**Library Management System**](https://github.com/your-repo-link) – Python + MySQL project with CRUD and fine tracking
 
+---
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -66,10 +71,10 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/www.linkedin.com/in/gokulc18" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
+  <a href="mailto:gokul.msc18@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Gokulc18" target="_blank">
